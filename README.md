@@ -13,3 +13,6 @@ OpenCV
 Machine Learning
 Python
 Mediapipe
+
+This was a hackthon project which can also be found on 
+https://devfolio.co/submissions/gesco-sap-1e60
